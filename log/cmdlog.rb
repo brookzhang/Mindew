@@ -1,5 +1,12 @@
 set HTTP_PROXY=http://172.30.4.63:3128
 
+rails new Mindew
+
+
+
+
+
+
 $ rails generate scaffold Post name:string title:string content:text
 
 rails new novelpool
